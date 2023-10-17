@@ -19,3 +19,4 @@
 
 //Hi my name is Reghan and I like to play volleyball
 
+//Hi my name is Jia Wern (jw) and a fun fact about me is that I can speak 3 languages :)
