@@ -7,13 +7,5 @@
 //Hi My name is Arushi and a fun fact about me is that I hate the smell of cheese. 
 // Hi My name is Maria and my favorite artists are Travis Scott, Drake, and Kali Uchis. 
 //Hi my name is Ayan and my fun fact is that I love cats
-
-// Hi my name is Shanika and my fun fact is that my birthday is on April Fools Day. 
-
-//Hi my name is Sahil and I love sports and listening to music
-
-//Hi my name is Kevin and my favorite season is fall because I like getting fitted up.
-
-// Hi my name is Karthik and my fun fact is that I have lived in 3 countries
-
+// Hi my name is Karthik and my fun fact is that I love 
 
